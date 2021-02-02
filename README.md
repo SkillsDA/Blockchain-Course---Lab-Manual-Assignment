@@ -12,8 +12,8 @@ This page provides information on Lab Manual & Assignment for the <b>Foundationa
   - [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)
   - [Metamask](https://metamask.io/download.html)
 - Faucet
- - [Bitcoin Testnet](https://testnet-faucet.mempool.co/)
- - [Ropsten Ethereum Testnet](https://faucet.metamask.io/)
+  - [Bitcoin Testnet](https://testnet-faucet.mempool.co/)
+  - [Ropsten Ethereum Testnet](https://faucet.metamask.io/)
 - Blockchain Explorer
   - [Bitcoin Explorer](https://www.blockchain.com/explorer?view=btc)
   - [Ethereum Explorer](https://etherscan.io/)
@@ -21,7 +21,10 @@ This page provides information on Lab Manual & Assignment for the <b>Foundationa
 - [Ganache](https://www.trufflesuite.com/ganache)
 - [Truffle Framework](https://www.trufflesuite.com/truffle)
 - Amazon Web Service (AWS) managed Blockchain
-- Solidity Vulnerability Scanner
+- Solidity Vulnerability Scanner 
+- [InterPlanetary File System (IPFS)](https://ipfs.io/)
+
+[Click here](Tools) to read more about the tools.
 
 ## Module 2: Blockchain Architecture
 
@@ -38,6 +41,17 @@ This page provides information on Lab Manual & Assignment for the <b>Foundationa
 - Perform tests on complied programs to check for possible errors using tools such as Testnet and Truffle.
 
 <b>[Lab Assignments](Development)</b>
+
+## Blockchain Applications
+
+ - Cryptocurrency
+    - Bitcoin
+    - Litecoin
+ - Supply Chain Management
+ - Identity Management
+ - Health Care
+ - e-Governance
+ - Cyber Security
 
 ## Disclaimer
 If there are any issues or mistakes, kindly report to admin@skillsda.com
