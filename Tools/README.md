@@ -130,13 +130,5 @@ Web3.js code Template:
 
 ```
 
-
-## Faucet 
-
-Faucet is a service that transfers smaller units of cryptocurrency to the requested address in Testnet for development and testing purpose. Most of the 
-cryptocurrency provides support to Faucet. 
-
-In Ethereum, for our lab, we will be using Ropsten Test Network. 
-
 ## Disclaimer
 If there are any issues or mistakes, kindly report to admin@skillsda.com
