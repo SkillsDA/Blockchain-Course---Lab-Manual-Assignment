@@ -12,7 +12,17 @@ Truffle is a development environment, testing framework and asset pipeline for b
   npm install -g truffle
   ```
 
-- Initialization of Truffle Project
+- Unbox Tuffle Project /  Initialization of Truffle Project
+
+  ```
+  truffle unbox pet-shop  
+  ```
+
+ ![Truffle Unbox](../Assets/truffle_unbox.png)
+ 
+ or 
+ 
+ Initialize a project
 
   ```
   truffle init
@@ -24,6 +34,15 @@ Truffle is a development environment, testing framework and asset pipeline for b
   - <b>migrations:</b> Scriptable deployment files
   - <b>test:</b> Test files for testing - application and contracts
   - <b>truffle-config.js:</b> Truffle configuration file
+ 
+- Truffle Console 
+
+  ```
+  truffle develop
+  ```
+
+ ![Truffle Unbox](../Assets/truffle_develop.png)
+ 
 
 - Writing the Smart Contracts
 
@@ -31,13 +50,28 @@ Truffle is a development environment, testing framework and asset pipeline for b
 - Compilation of Smart Contracts
 
   ```
+  truffle compile
+  ```
+  
+- Migration of Smart Contracts
+
+  ```
   truffle migrate
   ```
+  
+ ![Truffle Unbox](../Assets/truffle_migrate_p1.png)
+ ![Truffle Unbox](../Assets/truffle_migrate_p2.png)
+  
 - Testing Smart Contracts
 
   ```
   truffle test
   ```
+  
+- DApp 
+
+ ![Truffle Unbox](../Assets/truffle_pet_shop.png)
+
 
 ## Disclaimer
 If there are any issues or mistakes, kindly report to admin@skillsda.com
