@@ -1,0 +1,43 @@
+Foundation Course in Blockchain Technology
+-------------------------------------------
+Module 3 - Lab - Blockchain Explorer
+-------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Bitcoin Explorer (Mainnet)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Analyse the given Block with BlockID - 630000. Identify the speciality of this block.
+Also check the Block with BlockID - 629999. 
+
+- Identify the Block Reward of block 630000.
+- Identify the Difficulty of these blocks.
+- Identify the Transaction Hash and Previous Hash of block 630000. 
+- Identify the Miner of block 629999.
+- Identify the Block with the version 0x20000000.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2. Ethereum Explorer (Mainnet)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Analyse the given Block with BlockID - 1920000. Identify the speciality of this block.
+
+- Identify the significance of this block.
+- Identify the Block Reward. 
+- Identify the Difficulty of this block. 
+- Identify the Wallet Address of the Miner.
+- Identify the Gas used for mining this block. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3. Ethereum Explorer (Ropsten)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+Search "BAT" and click the suitable search result. Analyse the details of this token.
+
+- Identify the Token Standard of BAT.
+- Identify the Maximum Supply of this token.
+- Identify the Contract Address of this token.
+- Identify the Transaction Hash that created the BAT token contract.
+- Identify the Gas price of the transaction in GWei.
+
+xxxxxxxxx END OF LAB xxxxxxxxx
