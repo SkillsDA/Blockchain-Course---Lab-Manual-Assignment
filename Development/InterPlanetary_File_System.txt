@@ -1,0 +1,25 @@
+Foundation Course in Blockchain Technology
+---------------------------------------------------
+Module 3 - Lab - InterPlanetary File System (IPFS)
+---------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Adding a File
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Get "IPFS_Input.txt" from Resources Section.
+
+- Add the file to IPFS and get the hash value.
+- Find the CIDv1 of this file hash using CID Convertor.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Retrieving a File
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Get the file with hash "QmRaskDYSDTYPtdJf2uXyQDRnHPsvHzRJWr1P73gudUKcQ" from IPFS.
+
+- Identify the File type.
+- Identify the Hash function used in this hash.
+- Identify the CID version of this hash. 
+
+xxxxxxxxx END OF LAB xxxxxxxxx
