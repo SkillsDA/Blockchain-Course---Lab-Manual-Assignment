@@ -1,4 +1,4 @@
-# Foundation Course in Blockchain Technology - Tools and Technology - Faucet
+# Foundation Course in Blockchain Technology - Tools - Faucet
 
 This page provides information on Tools and Technologies used in the <b>Foundation Course in Blockchain Technology</b>.
 
@@ -11,7 +11,7 @@ cryptocurrency provides support to Faucet. In general, Faucet transfers a fracti
 
 [Link](https://testnet-faucet.mempool.co/) to Bitcoin Faucet.
 
-![Bitcoin Faucet](../Assets/Bitcoin_Facuet_UI.png)
+![Bitcoin Faucet](../Assets/Bitcoin_Faucet_UI.png)
 
 ### Ethereum Faucet
 
