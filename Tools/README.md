@@ -1,29 +1,33 @@
-# Foundational Curriculum for Blockchain - Lab Manual & Assignment
+# Foundation Course in Blockchain Technology - Tools and Technology
 
-This page provides information on Tools used in the <b>Foundational Curriculum for Blockchain</b>
+This page provides information on Tools and Technologies used in the <b>Foundation Course in Blockchain Technology</b>.
 
 ## Scripts/Languages
 
-- Solidity Program
-- Web3.js
+- [Solidity Program](#solidity-program)
+- [Web3.js](#web3js)
 
 
 ## Tools 
 - Cryptowallet
   - [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)
   - [Metamask](https://metamask.io/download.html)
-- Faucet
+  - [Electrum](https://electrum.org/#home)
+- [Faucet](Faucet.md)
   - [Bitcoin Testnet](https://testnet-faucet.mempool.co/)
   - [Ropsten Ethereum Testnet](https://faucet.metamask.io/)
 - Blockchain Explorer
   - [Bitcoin Explorer](https://www.blockchain.com/explorer?view=btc)
   - [Ethereum Explorer](https://etherscan.io/)
-- [Remix IDE](https://remix.ethereum.org/)
-- [Ganache](https://www.trufflesuite.com/ganache)
-- [Truffle Framework](https://www.trufflesuite.com/truffle)
+- [Remix IDE](Remix.md)
+- [Ganache](Ganache.md)
+- [Truffle Framework](Truffle.md)
 - Amazon Web Service (AWS) managed Blockchain
-- Solidity Vulnerability Scanner
-- InterPlanetary File System (IPFS)
+- Solidity Vulnerability Scanner 
+  - [Contract Library](https://contract-library.com/)
+  - [Mythx](https://mythx.io/)
+- [InterPlanetary File System (IPFS)](IPFS.md)
+- [Infura](https://infura.io/product/ipfs)
 
 ## Solidity Program
 
@@ -85,7 +89,7 @@ On **Compilation** of Solidity Program, we get **ABI (Application Binary Interfa
 On **Deploying** the Smart Contract to the Blockchain, we get **Smart Contract Address**, which uniquely identifies the contract. 
 ABI and Smart Contract Address are required to interact and access contract from the WebUI.
 
-## Web3.js
+## Web3JS
 
 **Web3.js** is a collection of javascript libraries which enables communication with local or remote Ethereum using HTTP or RPC communication. 
 
