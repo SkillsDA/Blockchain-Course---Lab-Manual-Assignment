@@ -1,29 +1,22 @@
-# Foundational Curriculum for Blockchain - Lab Manual & Assignment
+# Foundation Course in Blockchain Technology - Lab Manual & Assignment
 
-This page provides information on Lab Assignment for the <b>Foundational Curriculum for Blockchain</b> for Blockchain Architecture.
-
-## Tools Required  
-- Cryptowallet
-  - [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)
-  - [Metamask](https://metamask.io/download.html)
-- Faucet
- - [Bitcoin Testnet](https://testnet-faucet.mempool.co/)
- - [Ropsten Ethereum Testnet](https://faucet.metamask.io/)
-- [Remix IDE](https://remix.ethereum.org/)
-- [Ganache](https://www.trufflesuite.com/ganache)
-- [Truffle Framework](https://www.trufflesuite.com/truffle)
-- Amazon Web Service (AWS) managed Blockchain
+This github page provides instructions on Lab Manual and Assignment for the <b>Foundation Course in Blockchain Technology</b> for Module 2 - </b>Blockchain Architecture</b>
 
 ## Module 2: Blockchain Architecture
 
 <b> Objectives </b>
-- Explore functionalities provided in various blockchain tools such as Testnet, Truffle, Solc, Remix and BaaS services such as Microsoft Azure, SAP and AWS. 
-- Identify the features of these tools and how they can be used to design blockchain architecture 
+- Practice and Explore functionalities in various tools like
+  - Online Hash Calculator
+  - Bitcoin Address Generator
+  - Cryptowallets 
+- Identify the features of these tools and using Blockchain Decision Tree
+  - Decide the suitability of the application for Blockchain
+  - Explore various Consensus Algorithm
+  - Understand the Design of Blockchain Architecture 
 
 ## Excerises
 
-	- 
-	- 
+	- Refer the instructions as given in the Course Module 
 
 ## Disclaimer
 If there are any issues or mistakes, kindly report to admin@skillsda.com
