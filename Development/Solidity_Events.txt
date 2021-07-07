@@ -1,0 +1,17 @@
+Foundation Course in Blockchain Technology
+------------------------------------------------
+Module 3 - Lab - Solidity Events
+------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unlock the contract to change the owner 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Get the file "unlock.sol" from the Resources section. Understand the smart contract
+try to compute the pin based on details available from Deployment address 
+"0x89ffe9b85c8016e41703c4700664b65fa3c64584" and the provided code snippet.
+
+After calculating the pin, enter the pin and your wallet address to successfully change
+the owner of the contract at    .
+
+xxxxxxxxx END OF LAB xxxxxxxxx
