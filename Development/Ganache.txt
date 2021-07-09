@@ -1,0 +1,16 @@
+Foundation Course in Blockchain Technology
+--------------------------------------------
+Module 3 - Lab - Ganache Private Blockchain
+--------------------------------------------
+
+Download the Ganache Private Blockchain from TruffleSuite Site and Install.
+
+- Open the Ganache Private Blockchain
+- Identify the RPC Server Address through which other services can communicate with Ganache
+- Identify the Network ID of Ganache 
+- Calculate the number of words in the Mnemonic Code
+- Identify the default balance for each account
+- Identify the number of accounts available in Ganache
+- Identify the Default Gas Price
+
+xxxxxxxxx END OF LAB xxxxxxxxx
