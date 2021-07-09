@@ -1,0 +1,26 @@
+Foundation Course in Blockchain Technology
+-------------------------------------------
+Module 3 - Lab - Blockchain Faucet
+-------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Bitcoin Core Testnet
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Open BitcoinCore Installed in your Machine in Testnet Mode. Use the Bitcoin Faucet to
+receive Test BTC. 
+
+- Try to request immediately multiple times within shorter duration.
+- Identify the transaction hash of your request.
+- Identify the Donation address requested in Faucet Page.
+- Identify the limit set by the Bitcoin Faucet per request.
+
+~~~~~~~~~~~~~~~~~~~~~~
+2. Ropsten Ethereum 
+~~~~~~~~~~~~~~~~~~~~~~
+
+Login to Metamask. Visit any Ropsten Testnet Faucet and Request for Test ETH.
+
+- Try to request immediately multiple times within shorter duration.
+
+xxxxxxxxx END OF LAB xxxxxxxxx
