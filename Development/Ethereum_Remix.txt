@@ -1,0 +1,15 @@
+Foundation Course in Blockchain Technology
+-------------------------------------------
+Module 3 - Lab - Ethereum Remix IDE
+-------------------------------------------
+
+Visit Remix IDE and get yourself familiarized with the Environment. 
+
+- Identify the other option listed in Language section other than Solidity.
+- Identify the default three folders in the File Explorer area.
+- Identify the unit options available for Value section.
+- Identify the Hyperledger Project listed in Plugin Manager.
+- Identify the extension of the files available in contracts folder.
+- Identify the default Environment selected in "Deploy and Run Transaction" Section.
+
+xxxxxxxxx END OF LAB xxxxxxxxx
