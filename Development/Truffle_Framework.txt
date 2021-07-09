@@ -1,0 +1,22 @@
+Foundation Course in Blockchain Technology
+-------------------------------------------
+Module 3 - Lab - Truffle Framework
+-------------------------------------------
+
+Download and Install Truffle Framework.
+
+- Open the command prompt.
+- Initialize a new project within a folder named "FCBC001"
+- Identify the three folders created
+- Identify the default contracts file within contracts folder
+
+- Download the "Simple Storage and Addition " Truffle Zip file
+- Compile and Migrate the contracts
+- Identify the version of the compiler in file Storage.sol
+- Perform testing of smart contracts 
+- Identify the number of testcases and number of testcases passed
+- Identify the version of this package 
+- Identify a new folder that was created now
+- Flag revealed during the test execution
+
+xxxxxxxxx END OF LAB xxxxxxxxx
