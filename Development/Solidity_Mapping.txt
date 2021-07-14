@@ -1,0 +1,15 @@
+Foundation Course in Blockchain Technology
+------------------------------------------------
+Module 3 - Lab - Solidity Mapping
+------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Create a Mapping 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Get the file "mapping.sol" from the Resources section. Add a mapping between the address 
+and the struct variable. 
+After successful modification and deployment, please answer the
+below questions.
+
+xxxxxxxxx END OF LAB xxxxxxxxx
