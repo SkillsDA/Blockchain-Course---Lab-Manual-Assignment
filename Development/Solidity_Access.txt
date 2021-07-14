@@ -1,0 +1,18 @@
+Foundation Course in Blockchain Technology
+------------------------------------------------
+Module 3 - Lab - Solidity Access
+------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Add Access Privilege to owner 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Get the file "access.sol" from the Resources section. Modify the code to allow access 
+only to contract owner. After successful modification and deployment, please answer the
+below questions.
+
+- What is the variable that holds the address of user interacting with the contract?
+- Modifier is checked before the function gets executed?
+- What is special keyword used within modifier?
+
+xxxxxxxxx END OF LAB xxxxxxxxx
