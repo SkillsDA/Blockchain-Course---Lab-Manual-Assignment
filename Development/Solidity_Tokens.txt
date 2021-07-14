@@ -1,0 +1,19 @@
+Foundation Course in Blockchain Technology
+------------------------------------------------
+Module 3 - Lab - Solidity Tokens
+------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Create a ERC-721 Token in your Name 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Get the file "token.sol" from the Resources section. Modify the code to create a token in
+your name. After successful modification and deployment, please answer the
+below questions.
+
+- What is the function used to create a new token?
+- Is this a Valid ERC-721 Token ID - "FCBC001"?
+- What is the function name to destory an existing token?
+- Name of the open source library used?
+
+xxxxxxxxx END OF LAB xxxxxxxxx
